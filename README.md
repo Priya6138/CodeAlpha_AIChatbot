@@ -32,11 +32,10 @@ You must have the Java Development Kit (JDK) installed on your system.
 ### Steps
 1.  Download: Download the complete repository (both .java files).
 2.  Compile: Navigate to the folder in your command line and compile both Java files:
-    bash
+    git clone https://github.com/Priya6138/CodeAlpha_AIChatbot.git
     javac .java
     
 3.  Run: Execute the main class:
-    bash
     java ChatbotGUI 
     
 4. The graphical chat window will open, allowing you to start your conversation with the AI Chatbot!
